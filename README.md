@@ -8,7 +8,7 @@ This exercise is designed to give you a chance, in class, to implement functiona
 3. Complete the development tasks listed below then commit and push your changes back up to your GitHub repo.
 
 ## Development Tasks: Using Python doctest module
-This project one source file containing five functions. One function has an error in its doctest. Three functions require a doctest specification.
+This project contains one source file containing five functions. One function has an error in its doctest. Three functions require a doctest specification.
 
 ### Step 0:
 **Run the tests.**
